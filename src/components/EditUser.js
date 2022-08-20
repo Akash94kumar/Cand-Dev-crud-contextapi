@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect } from "react";
-import { GlobalContext } from "../context/GlobalState";
+
 import { Link, useHistory } from "react-router-dom";
 import { Form, FormGroup, Label, Input, Button } from "reactstrap";
 
